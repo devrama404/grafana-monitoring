@@ -249,6 +249,9 @@ Untuk memastikan komunikasi aman dan cepat tanpa biaya *bandwidth* internet (men
 * Username: `xxx`
 * Password: `xxx`
 
+Note : setup domain dan ssl untuk grafana
+### Link : [grafana.devrama.my.id](url)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mum7d22afaipv5yslply.png)
 
 
 ### Menambahkan Data Source
