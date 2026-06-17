@@ -24,8 +24,8 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - GF_SECURITY_ADMIN_USER=admin
-      - GF_SECURITY_ADMIN_PASSWORD=GrafanaAdmin2026!
+      - GF_SECURITY_ADMIN_USER=xxx
+      - GF_SECURITY_ADMIN_PASSWORD=xxx
 # --- TAMBAHKAN DUA BARIS DI BAWAH INI ---
       - GF_SERVER_DOMAIN=grafana.devrama.my.id
       - GF_SERVER_ROOT_URL=https://grafana.devrama.my.id/
